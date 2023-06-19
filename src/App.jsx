@@ -63,9 +63,9 @@ function App() {
         </div>
         
         <ul>
-          <Tarefa
+          {/* <Tarefa
             placeholder="Adicione uma tarefa"
-          />
+          /> */}
           <li>Lorem ipsum dolor sit amet.</li>
           <li>Lorem ipsum dolor sit amet.</li>
           <li>Lorem ipsum dolor sit amet.</li>
