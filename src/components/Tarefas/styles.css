@@ -1,0 +1,45 @@
+.task { 
+display: flex;
+align-items: center;
+
+background-color: var(--card-header);
+color: red;
+
+border: blue;
+
+margin-bottom: 0.8rem;
+border-radius: 1rem;
+padding-right: 1.6rem;
+
+
+}
+
+button {
+    border: none;
+    background: none;
+}
+
+.button-delete {
+    color: red;
+}
+
+.button-add {
+    color: blue;
+}
+
+input {
+    height: 5.6rem;
+    width: 100%;
+    
+    padding: 1.2rem;
+
+    color: black;
+    background-color: transparent;
+
+    border: none;
+
+}
+
+input:placeholder {
+  color: gray;
+}
